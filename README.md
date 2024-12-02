@@ -1,2 +1,2 @@
 # AdminScripts
- Admin Scripts 
+ Admin Scripts for Windows locked account manage
